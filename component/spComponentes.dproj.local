@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/22 13:17:37.000.387,=rtl.dcp</Transaction>
+    <Transaction>2020/11/22 13:19:34.085,=rtl.dcp</Transaction>
+    <Transaction>2020/11/22 13:20:08.193,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\spComponentes.dproj=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2020/11/22 13:20:56.202,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\spComponentes.dproj=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\spComponentes.dproj</Transaction>
+    <Transaction>2020/11/22 13:23:21.000,=C:\Desenvolvimento\teste\lib\spQuery.pas</Transaction>
+    <Transaction>2020/11/22 13:23:21.499,=dbrtl.dcp</Transaction>
+    <Transaction>2020/11/22 13:23:21.545,=FireDAC.dcp</Transaction>
+    <Transaction>2020/11/22 13:23:21.593,=FireDACSqliteDriver.dcp</Transaction>
+    <Transaction>2020/11/22 13:23:21.638,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2020/11/22 13:23:21.684,=FireDACCommon.dcp</Transaction>
+    <Transaction>2020/11/22 13:23:21.730,=xmlrtl.dcp</Transaction>
+    <Transaction>2020/11/22 13:27:42.884,C:\Desenvolvimento\teste\lib\uspQuery.pas=C:\Desenvolvimento\teste\lib\spQuery.pas</Transaction>
+    <Transaction>2020/11/22 13:29:03.126,C:\Desenvolvimento\teste\component\spComponentes.dproj=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\spComponentes.dproj</Transaction>
+    <Transaction>2020/11/22 13:37:20.751,C:\Desenvolvimento\teste\component\uspQuery.pas=C:\Desenvolvimento\teste\lib\uspQuery.pas</Transaction>
+  </Transactions>
+</BorlandProject>

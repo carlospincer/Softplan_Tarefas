@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/07 00:04:07.000.102,=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/26 21:19:40.000.170,=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 12:44:22.000.045,=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 12:44:48.000.344,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Desenvolvimento\teste\view\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2020/11/22 12:44:48.000.344,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Desenvolvimento\teste\view\uFrmPrincipal.pas</Transaction>
+    <Transaction>2020/11/22 12:45:13.000.465,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Desenvolvimento\teste\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2020/11/22 14:18:34.016,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 14:18:51.447,C:\Desenvolvimento\teste\view\ufTarefa1.dfm=C:\Desenvolvimento\teste\Unit1.dfm</Transaction>
+    <Transaction>2020/11/22 14:18:51.447,C:\Desenvolvimento\teste\view\ufTarefa1.pas=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 17:44:33.142,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 17:44:54.243,C:\Desenvolvimento\teste\view\ufTarefa2.pas=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 17:44:54.243,C:\Desenvolvimento\teste\view\ufTarefa2.dfm=C:\Desenvolvimento\teste\Unit1.dfm</Transaction>
+    <Transaction>2020/11/22 17:55:40.009,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 17:56:03.473,C:\Desenvolvimento\teste\view\ufPadrao.pas=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 17:56:03.473,C:\Desenvolvimento\teste\view\ufPadrao.dfm=C:\Desenvolvimento\teste\Unit1.dfm</Transaction>
+    <Transaction>2020/11/22 18:00:30.725,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 18:04:11.652,C:\Desenvolvimento\teste\view\ufTarefa1.pas=</Transaction>
+    <Transaction>2020/11/22 18:05:04.466,C:\Desenvolvimento\teste\view\ufTarefa1.dfm=C:\Desenvolvimento\teste\Unit1.dfm</Transaction>
+    <Transaction>2020/11/22 18:05:04.466,C:\Desenvolvimento\teste\view\ufTarefa1.pas=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 18:11:25.290,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 18:11:42.760,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 18:12:01.776,C:\Desenvolvimento\teste\view\ufTarefa2.pas=</Transaction>
+    <Transaction>2020/11/22 18:12:23.131,C:\Desenvolvimento\teste\view\ufTarefa2.pas=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 18:12:23.131,C:\Desenvolvimento\teste\view\ufTarefa2.dfm=C:\Desenvolvimento\teste\Unit1.dfm</Transaction>
+    <Transaction>2020/11/22 18:33:33.720,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 18:51:10.016,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 20:30:00.489,=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 20:30:34.727,C:\Desenvolvimento\teste\view\ufTarefa3.pas=C:\Desenvolvimento\teste\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 20:30:34.727,C:\Desenvolvimento\teste\view\ufTarefa3.dfm=C:\Desenvolvimento\teste\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
